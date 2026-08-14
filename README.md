@@ -1,8 +1,8 @@
 # Hi, I'm Abdurahim Sanginov 👋
 
 [![Profile views](https://komarev.com/ghpvc/?username=Abdurahim0202&label=Profile%20views&color=1A73E8&style=flat)](https://github.com/Abdurahim0202)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurahim-sanginov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asangino@ramapo.edu)
 
 ---
 
